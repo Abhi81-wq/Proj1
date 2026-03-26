@@ -1,2 +1,4 @@
 # Proj1
-This is Repo for practicing Git.
+This Project is about snowflake.
+
+Dev-A created streams on source table.
